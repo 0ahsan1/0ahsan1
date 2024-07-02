@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @0ahsan1
 -.   Started stack overflow contributions
 https://stackoverflow.com/users/11420134/muhammad-ahsan?tab=profile
-- 👀 I’m interested in Angular eco systems
--.   Love to code in JavaScript and typescript
-- 🌱 I’m currently learning angular exiting features
+- 👀 I’m interested in Frontend technologies
+-.   Love to code in JavaScript
+- 🌱 I’m currently learning React exciting features
 - 💞️ I’m looking to collaborate on any angular concept need to be resolved
 - 📫 How to reach me ... mailto:mdotihsan@gmail.com
 
